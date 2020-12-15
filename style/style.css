@@ -243,28 +243,27 @@ nav a:hover {
     
   
    
-  .box-1 {
+  .donors-box {
     text-align: center;
     background-color: #D39F4C;
     color: white;
     padding: 15px;
   }
     
-  .box-2 {
-    background-color: #BF3838;
+  .red-box {
+    background-color: #BF3838; 
     display: flex;
-    padding: 105px;
-    text-align: center;
+    padding: 150px;
+    text-align: center; 
   }  
     
   
-  .box-3 {
-    background-color: #C99F6F;
-    grid-column: 4/6;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  } 
+  .ways-box {
+    background-color: #BF9F79; 
+   display: flex;
+   padding: 150px;
+   text-align: center; 
+   }
   
     
     
