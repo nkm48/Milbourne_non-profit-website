@@ -121,8 +121,20 @@ nav a:hover {
     height: 100vh;
     background-size: cover;
   }
-  
-  
+
+.hero-type{
+  padding: 100px 20px 20px 20px;
+  text-align: center;
+}
+
+.hero-para{
+  font-size: x-large;
+  text-align: center;
+  font-weight: 700;
+  color: #fff;
+  text-shadow: black 2px 2px;
+}
+ 
   
   
   @media screen and (min-width: 600px) {
@@ -210,7 +222,7 @@ nav a:hover {
     }
     
     .event-box {
-      height: 200vh;
+      height: 100vh;
       background: url("https://assets.codepen.io/5009829/Visual+Style+%285%29.jpeg");
       background-size: cover;
       display: flex;
@@ -227,7 +239,7 @@ nav a:hover {
     }
     
     .help-box {
-      height: 200vh;
+      height: 100vh;
       background: url("https://assets.codepen.io/5009829/Pattern.jpeg");
       background-size: cover;
       
@@ -265,6 +277,70 @@ nav a:hover {
    text-align: center; 
    }
   
+   .contact-box{
+    height: 100vh;
+     background: url("https://assets.codepen.io/5009829/Visual+Style.jpeg");
+     background-size: cover;
+     display: flex;
+     justify-content: center;
+     align-items: center; 
+   }
+   
+   .contact-us-box{
+    width: 60%;
+     text-align: right;
+     background: rgba(0,0,0,.75);
+     color: white;
+     padding: 15px 60px; 
+   }
+ 
+ form {
+   width: 700px;
+   background: #fff;
+   padding: 35px;
+   margin-top: 20vh;
+ }
+ 
+ input {
+   width: 100%;
+ }
+ 
+ textarea {
+   resize: vertical;
+   max-height: 100px;
+ }
+ 
+ input, textarea {
+   outline: none;
+   border: none;
+   border-bottom: 1px dashed #ddd;
+   border-right: 1px dashed #ddd;
+   margin: 10px;
+   font-size: .7em;
+ }
+ 
+ input:focus, textarea:focus {
+   box-shadow: 0 0 4px rgba(255, 0,0, 0.5);
+ }
+ 
+ input:placeholder {
+   color: green;
+   opacity: .3;
+ }
+ 
+ .submit-button {
+   display: block;
+   padding: 5px 15px;
+   margin: 20px auto;
+   outline: none;
+   border-radius: 25px;
+   border: none;
+ }
+ 
+ .submit-button:hover {
+   background: green;
+   color: 
+ } 
     
     
     footer {
