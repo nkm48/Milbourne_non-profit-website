@@ -197,9 +197,12 @@ nav a:hover {
       max-height: 1170px;
       max-width: 1305px;
     }
+
+    
     
     .wrapper {
       width: 100%;
+      
      
     } 
     
@@ -276,6 +279,9 @@ nav a:hover {
    padding: 150px;
    text-align: center; 
    }
+
+   
+   
   
    .contact-box{
     height: 100vh;
