@@ -221,6 +221,8 @@ nav a:hover {
       background: rgba(0,0,0,.75);
       color: white;
       padding: 15px 60px;
+      font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+      
     
     }
     
@@ -239,12 +241,14 @@ nav a:hover {
       background: rgba(0,0,0,.75);
       color: white;
       padding: 15px 60px;
+      font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
     }
     
     .help-box {
       height: 100vh;
       background: url("https://assets.codepen.io/5009829/Pattern.jpeg");
       background-size: cover;
+      
       
     }
     
@@ -254,6 +258,7 @@ nav a:hover {
       background: rgba(0,0,0,.75);
       color: white;
       padding: 15px 60px;
+      font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
     }
     
   
@@ -263,6 +268,7 @@ nav a:hover {
     background-color: #D39F4C;
     color: white;
     padding: 15px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
   }
     
   .red-box {
@@ -279,6 +285,7 @@ nav a:hover {
    padding: 150px;
    text-align: center; 
    color: white;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
    }
 
    
@@ -347,6 +354,7 @@ nav a:hover {
  .submit-button:hover {
    background: green;
    color: 
+
  } 
     
     
