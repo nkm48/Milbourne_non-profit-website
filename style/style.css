@@ -354,8 +354,7 @@ nav a:hover {
  .submit-button:hover {
    background: green;
    color: 
-
- } 
+  } 
     
     
     footer {
@@ -365,4 +364,4 @@ nav a:hover {
     width: 100%;
     z-index: 1000;
     object-position:center;
-    }
+    }}
