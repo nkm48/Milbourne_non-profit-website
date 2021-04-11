@@ -258,9 +258,8 @@ nav a:hover {
       background: rgba(0,0,0,.75);
       color: white;
       padding: 15px 60px;
-      font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+      font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     }
-    
   
    
   .donors-box {
@@ -287,7 +286,6 @@ nav a:hover {
    color: white;
    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
    }
-
    
    
   
@@ -354,7 +352,7 @@ nav a:hover {
  .submit-button:hover {
    background: green;
    color: 
-  } 
+  }
     
     
     footer {
